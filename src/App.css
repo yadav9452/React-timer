@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  width: 40%;
+  background-color: rgb(95, 95, 219);
+  margin: auto;
+  padding: 50px;
+}
+body {
+  margin-top: 50px;
+}
